@@ -8,7 +8,7 @@ int main() {
     
      s = (a+c - 1) /c*c;
     
-    if (s >= a && s <= b) {
+    if (s >= s && s <= b) {
         cout <<s<< endl;
     } else {
         cout << -1 << endl;

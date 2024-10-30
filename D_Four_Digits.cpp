@@ -3,7 +3,7 @@
 using namespace std;
 void solve()
 {
-      int t;
+    int t;
     cin>>t;
     string ans=to_string(t);
     while(ans.length()<4)

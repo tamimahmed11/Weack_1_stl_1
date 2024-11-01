@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
-
-int main() {
+int main() 
+{
     int n;
     cin >> n;
    vector<int>dig(n);
@@ -24,7 +24,7 @@ int main() {
     }
     else 
     {
-        std::cout << sum-exponetial << std::endl;
+        cout << sum-exponetial <<endl;
     }
 
     return 0;
